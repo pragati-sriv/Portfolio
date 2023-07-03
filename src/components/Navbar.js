@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import {
   FaBars, FaTimes
 } from 'react-icons/fa'
-import Resume from '../assets/Resume_Pragati_Srivastava_.pdf'
+import Resume from '../assets/Resume_Pragati_Srivastava...pdf'
 
 
 import { useState } from 'react'
